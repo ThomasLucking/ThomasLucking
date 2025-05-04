@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Languages I am familiar with!</h3>
+<h3 align="center">Technologies I am familiar with!</h3>
 
 ###
 
