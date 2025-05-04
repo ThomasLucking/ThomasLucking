@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hey my name is thomas Lucking I'm a young Fullstack mobile developer!<br><br>Feel free to contact me!</h2> <img align="right" src="profile.jpeg" width="100" height="100" />
+<h2 align="center">👋 Hey my name is thomas Lucking I'm a young Fullstack mobile developer!<br><br>Feel free to contact me!</h2>
 
 
 
