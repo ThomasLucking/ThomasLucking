@@ -5,6 +5,9 @@
 <h3 align="center">Technologies I am familiar with!</h3>
 
 ###
+<div align="left">
+  <img src="profile.jpeg" width="100" height="100" />
+</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
@@ -22,7 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="60" alt="apple logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="60" alt="nodejs logo"  />
-  <img src="profile.jpeg" width="50" height="60" />
 </div>
 
 ###
