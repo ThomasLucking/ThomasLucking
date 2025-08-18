@@ -1,5 +1,5 @@
-<h2 align="center">👋 Hey my name is thomas Lucking I'm a young Fullstack mobile developer!<br><br>Feel free to contact me!</h2>
-<h5> I am currently learning React native and NativeWind css for frontend, I am also learning Express.js and node.js and Mongodb for full stack development.</h5>
+<h2 align="center">👋 Hey my name is thomas Lucking I'm a young fullstack developer<br><br>Feel free to contact me!</h2>
+<h5>Working as an apprentice in IT for Jobtrek </h5>
 
 
 <h3 align="center">Technologies I am familiar with!</h3>
