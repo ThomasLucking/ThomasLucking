@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hey my name is thomas Lucking I'm a young fullstack developer<br><br>Feel free to contact me!</h2>
-<h5>Working as an apprentice in IT for Jobtrek </h5>
+<h5 align="center">Working as an apprentice in IT for Jobtrek </h5>
 
 
 <h3 align="center">Technologies I am familiar with!</h3>
@@ -16,8 +16,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="60" alt="apple logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="60" alt="nodejs logo"  />
 </div>
