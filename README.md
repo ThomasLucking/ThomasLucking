@@ -22,8 +22,8 @@ interface Developer {
 const thomas: Developer = {
   name: "Thomas Lucking",
   role: "Full Stack Developer",
-  company: "Jobtrek (IT Apprentice)",
-  location: "🌍 Based in [Switzerland",
+  company: "Apprenti Informaticien Jobtrek ",
+  location: "Switzerland",
 };
 ```
 ---
