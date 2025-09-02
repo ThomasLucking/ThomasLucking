@@ -1,12 +1,12 @@
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%">
+</div>
 
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=orange&background=FF6B2400&width=435&lines=Thomas+Edward+Lucking;Full+Stack+Developer+)](https://git.io/typing-svg)
   
-</div>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%">
 </div>
 
 ## About Me
