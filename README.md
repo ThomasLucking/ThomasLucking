@@ -9,7 +9,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%">
 </div>
 
-## 🧑‍💻 About Me
+## About Me
 
 ```typescript
 interface Developer {
@@ -28,7 +28,7 @@ const thomas: Developer = {
 ```
 ---
 
-## 🛠️ Tech Stack
+## Stack
 
 <div align="center">
 
@@ -58,7 +58,7 @@ const thomas: Developer = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
