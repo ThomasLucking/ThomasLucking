@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=4C06CC&background=FF6B2400&width=435&lines=Thomas+Edward+Lucking;Full+Stack+Developer+)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=orange&background=FF6B2400&width=435&lines=Thomas+Edward+Lucking;Full+Stack+Developer+)](https://git.io/typing-svg)
   
 </div>
 <div align="center">
@@ -71,22 +71,6 @@ const thomas: Developer = {
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thomaslucking&theme=tokyonight)
   
-</div>
-
----
-
-## 📈 Language Usage
-
-<div align="center">
-
-```text
-C#           ████████████████████████████████████░░░░░   34.20%
-Python       ███████████████████████░░░░░░░░░░░░░░░░░░   22.37%
-CSS          ████████████████████░░░░░░░░░░░░░░░░░░░░░   19.87%
-TypeScript   ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   12.84%
-HTML         ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   10.71%
-```
-
 </div>
 
 ---
