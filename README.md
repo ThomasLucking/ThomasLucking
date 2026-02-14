@@ -6,7 +6,7 @@
 <h3 align="center">I love building new stuff and experimenting with new things!</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,cs,ts,nodejs,react,tailwind,php,laravel,postgres,sqlite,py,cs,bash,docker,bun,arch,raspberrypi,arduino,nginx,apache&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,ts,nodejs,react,tailwind,php,laravel,postgres,sqlite,py,cs,bash,docker,bun,arch,raspberrypi,arduino,nginx&perline=8" />
 </p>
 
 ---
