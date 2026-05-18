@@ -5,8 +5,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,ts,nodejs,react,tailwind,php,laravel,postgres,sqlite,py,cs,bash,docker,bun,arch,raspberrypi,arduino,nginx&perline=12" />
 </p>
 
-<div align="center">
-### Stuff I built
-airbnb-laravel-production.up.railway.app
+
+## Stuff I built
+
+[AirBNB Laravel](airbnb-laravel-production.up.railway.app)
   
-</div>
+
