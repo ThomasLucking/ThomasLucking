@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>Currently exploring RAG Systems and Data Driven Architecture</strong>
+  <strong>Exploring RAG systems and AST-based chunking.</strong>
 </p>
 
 
