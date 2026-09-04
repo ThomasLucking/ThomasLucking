@@ -5,9 +5,6 @@
   <img src="https://skillicons.dev/icons?i=ts,react,tailwind,php,laravel,postgres,sqlite,py,vue,bash,docker,bun,arch,elysia&perline=7" />
 </p>
 
-<p align="center">
-  <strong>Currently exploring RAG systems and AST-based chunking.</strong>
-</p>
 
 
   
