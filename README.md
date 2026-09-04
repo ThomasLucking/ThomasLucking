@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>Exploring RAG systems and AST-based chunking.</strong>
+  <strong>Currently exploring RAG systems and AST-based chunking.</strong>
 </p>
 
 
