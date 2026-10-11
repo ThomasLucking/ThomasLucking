@@ -7,7 +7,7 @@
 
 ```ts
 const thomas = {
-  currently: "apprentice developer (CFC, year 2), building a local RAG app with Laravel and pgvector",
+  currently: "apprentice developer (CFC, 2nd year), building a local RAG app with Laravel and pgvector",
   focus: "full-stack, TypeScript and PHP/Laravel and System Design",
   contact: "telucking@gmail.com",
 };
