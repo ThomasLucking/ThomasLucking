@@ -5,10 +5,4 @@
   <img src="https://skillicons.dev/icons?i=ts,react,tailwind,php,laravel,postgres,githubactions,py,vue,bash,docker,bun,arch,elysia&perline=7" />
 </p>
 
-```ts
-const thomas = {
-  currently: "apprentice developer (CFC, 2nd year), building a local RAG app with Laravel and pgvector",
-  focus: "full-stack, TypeScript and PHP/Laravel and System Design",
-  contact: "telucking@gmail.com",
-};
-```
+
